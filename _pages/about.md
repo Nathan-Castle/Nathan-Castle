@@ -9,11 +9,11 @@ header:
 classes: wide
 date: October 23, 2021
 ---
+
+## Background
 <figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/about/beau.jpg" alt="">
 </figure> 
-
-## Background
 
 I am a 5th year student majoring in business with concentrations in finance and management information systems. Additionally, I am pursuing a minor in statistics with an emphasis on statistical analysis in data science.
 
