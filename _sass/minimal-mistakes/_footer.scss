@@ -1,7 +1,7 @@
 /* ==========================================================================
    FOOTER
    ========================================================================== */
-/* Old Code
+/* Old Code */
 .page__footer {
   @include clearfix;
   float: left;
@@ -82,7 +82,9 @@
       white-space: nowrap;
     }
   }
-} */
+} 
+
+/* New Code
 .page__footer {
   @include clearfix;
   // float: left;
@@ -91,11 +93,11 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
+ 
   position: absolute;
   bottom: 0;
   height: auto;
-  /* sticky footer fix end */
+
   margin-top: 3em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
@@ -170,4 +172,5 @@
       white-space: nowrap;
     }
   }
-}
+} 
+*/
