@@ -1,7 +1,7 @@
 ---
 title: "Personal Website!"
 header:
-excerpt: "Intro to my data science journey..."
+excerpt: "Intro into my data science journey..."
 date: November 05, 2021
 ---
 
