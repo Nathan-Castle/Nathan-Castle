@@ -11,15 +11,14 @@ date: November 27, 2021
 ---
 
 # Business Analytics and Decision Making (BADM) Hackathon
-- 1st Place Technical
-- 1st Place Storytelling
-
-
-
-## [What](https://beediehackathon.bus.sfu.ca):
 <figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/badmfinal.png" alt="">
 </figure> 
+
+- 1st Place Technical
+- 1st Place Storytelling
+
+## [What](https://beediehackathon.bus.sfu.ca):
 The BADM Hackathon is a yearly event hosted by Jason Ho and the Beedie School of Business. Students have 24 hours to analyze a real-world business case, build a predictive model from a given dataset and communicate the results/recommendations to industry professionals. These industry professionals are analytics leaders from reputable organizations such as Aritzia, Best Buy, Coast Capital Savings, Vancouver Coastal Health and many more! The bracket consists of five groups that contain five teams within each group. Each team will present three times to different industry professional judges and the winner of each group advances to the finals. The winners will split prizes of $3,000.
 
 ## Objectives:
@@ -28,12 +27,14 @@ This year’s BADM Hackathon case was all about digital health. A primary unders
 ## Thoughts: 
 This was an amazing experience that I was proud to be a part of and learned how to present technical solutions with storytelling. Going into this hackathon, I was excited to combine my previous case competition presentation skills with my newfound technical skills to get the best of both worlds. My team and I worked extremely hard to combine our business domain knowledge with the technical world to get the best models possible. Furthermore, I was impressed with my ability to remain calm under pressure, while presenting in front of these established industry professionals. It was astonishing to see how supportive they were after the presentations and the feedback was extremely helpful. I would recommend this hackathon to anyone looking to deepen either their technical or storytelling skills.
 
-<figure style="width: 50%" class="align-center">
+# Vancouver Datajam Hackathon
+- Top 5 Solution
+
+
+<figure style="width: 70%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.jpg" alt="">
 </figure> 
 
-# Vancouver Datajam Hackathon
-- Top 5 Solution
 
 ## [What](https://www.vancouverdatajam.ca):
 Vancouver Datajam is a virtual one-week hackathon where participants develop their coding skills under industry professionals. Additionally, a weekend of workshops is hosted by advanced analytic professionals including topics such as Git and Github control, machine learning with R, Data structures in python, python dash, and intro to notable and the python data stack. Each team is focused on a topic chosen by the lead “hacker” and must develop a small presentation show case the work at the end of the week.
@@ -46,6 +47,10 @@ This was my first extremely technical hackathon where most of the components wer
 
 # Elite Case Competition
 
+<figure style="width: 70%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
+</figure> 
+
 ## [What](https://beedie.sfu.ca/student-life/undergraduates/competitions/beedie-competitions):
 The ELITE Case Competition is intended to be a high-level competition for students with prior case competition experience. Successful teams will have in-depth financial analysis, including modelling or projections where relevant, and are expected to conduct significant secondary research to inform decision making and support all assumptions. Students are given nine days to deliberate and produce a comprehensive presentation to showcase to industry professional judges from Telus, Deloitte, KPMG, Apply Digital and CGI.
 
@@ -55,9 +60,7 @@ This year’s case was about helping the Anangu Pitjantjatjara Yankunytjatjara (
 ## Thoughts:
 Upon release of the case, I was extremely worried because I had little to no knowledge about art, Australia, and indigenous people in Australia. It was almost as if this case was designed for me to have no domain knowledge coming into it. However, through perseverance and determination to develop an excellent understanding of all aspects in the case, my team and I became mini experts. This was my first senior experience with case competitions where I learned how to tackle an unfamiliar and challenging business case. Additionally, I really learned the power of time management and effective collaboration with teammates by setting clear deadlines and goals. 
 
-<figure style="width: 100%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
-</figure> 
+
 
 # BUS 201 Case Competition
 
