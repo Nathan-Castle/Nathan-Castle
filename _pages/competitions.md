@@ -25,15 +25,11 @@ This year’s BADM Hackathon case was all about digital health. A primary unders
 
 ## Thoughts: 
 This was an amazing experience that I was proud to be a part of and learned how to present technical solutions with storytelling. Going into this hackathon, I was excited to combine my previous case competition presentation skills with my newfound technical skills to get the best of both worlds. My team and I worked extremely hard to combine our business domain knowledge with the technical world to get the best models possible. Furthermore, I was impressed with my ability to remain calm under pressure, while presenting in front of these established industry professionals. It was astonishing to see how supportive they were after the presentations and the feedback was extremely helpful. I would recommend this hackathon to anyone looking to deepen either their technical or storytelling skills.
-# 
            
 # Vancouver Datajam Hackathon
 - Top 5 Solution
 
 ## [What](https://www.vancouverdatajam.ca):
-<figure style="width: 30%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.png" alt="">
-</figure> 
 Vancouver Datajam is a virtual one-week hackathon where participants develop their coding skills under industry professionals. Additionally, a weekend of workshops is hosted by advanced analytic professionals including topics such as Git and Github control, machine learning with R, Data structures in python, python dash, and intro to notable and the python data stack. Each team is focused on a topic chosen by the lead “hacker” and must develop a small presentation show case the work at the end of the week.
 
 ## Objectives:
@@ -41,14 +37,13 @@ This year’s Datajam theme was health in our communities and our specific proje
 
 ## Thoughts: 
 This was my first extremely technical hackathon where most of the components were based on coding and not presenting. Furthermore, I was tasked with the modelling/analysis and the documentation. From this experience, I learned how to be proficient with the creation of functions for the reproducibility of code. I was originally nervous because my fellow teammates (11) were either data engineers, scientists, or analysts. However, I exceeded my own expectations because I was able to keep up and code just as well as everyone else. This created a sense of euphoria and belonging because I knew this is the type of work I want to do in the future. 
-  
-  
+<figure style="width: 60%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.png" alt="">
+</figure> 
+ 
 # Elite Case Competition
 
 ## [What](https://beedie.sfu.ca/student-life/undergraduates/competitions/beedie-competitions):
-<figure style="width: 30%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
-</figure> 
 The ELITE Case Competition is intended to be a high-level competition for students with prior case competition experience. Successful teams will have in-depth financial analysis, including modelling or projections where relevant, and are expected to conduct significant secondary research to inform decision making and support all assumptions. Students are given nine days to deliberate and produce a comprehensive presentation to showcase to industry professional judges from Telus, Deloitte, KPMG, Apply Digital and CGI.
 
 ## Objectives:
@@ -56,8 +51,9 @@ This year’s case was about helping the Anangu Pitjantjatjara Yankunytjatjara (
 
 ## Thoughts:
 Upon release of the case, I was extremely worried because I had little to no knowledge about art, Australia, and indigenous people in Australia. It was almost as if this case was designed for me to have no domain knowledge coming into it. However, through perseverance and determination to develop an excellent understanding of all aspects in the case, my team and I became mini experts. This was my first senior experience with case competitions where I learned how to tackle an unfamiliar and challenging business case. Additionally, I really learned the power of time management and effective collaboration with teammates by setting clear deadlines and goals. 
-  
-  
+<figure style="width: 60%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
+</figure> 
   
 # BUS 201 Case Competition
 ## [What](https://beedie.sfu.ca/student-life/competitions/bus-201-case-challenge):
