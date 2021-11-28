@@ -11,8 +11,8 @@ date: November 27, 2021
 ---
 
 # Business Analytics and Decision Making (BADM) Hackathon
-    - 1st Place Technical
-    - 1st Place Storytelling
+   - 1st Place Technical
+   - 1st Place Storytelling
 
 ## [What](https://beediehackathon.bus.sfu.ca):
 <figure style="width: 30%" class="align-right">
@@ -28,7 +28,7 @@ This was an amazing experience that I was proud to be a part of and learned how 
            
 # Vancouver Datajam Hackathon
      - Top 5 Solution
-<figure style="width: 60%" class="align-center">
+<figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.png" alt="">
 </figure>
 ## [What](https://www.vancouverdatajam.ca):
@@ -45,7 +45,7 @@ This was my first extremely technical hackathon where most of the components wer
  
 # Elite Case Competition
 
-<figure style="width: 60%" class="align-center">
+<figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
 </figure> 
 
