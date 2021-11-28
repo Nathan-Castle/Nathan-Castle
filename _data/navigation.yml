@@ -6,8 +6,8 @@ main:
     url: /index.html
   - title: "About"
     url: /about/
-  - title: "Competitions"
-    url: /competitions/
+#  - title: "Competitions"
+#    url: /competitions/
 #  - title: "Journey"
 #    url: /journey/
 #  - title: "Resume"
