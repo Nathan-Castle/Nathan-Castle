@@ -57,7 +57,7 @@ Upon release of the case, I was extremely worried because I had little to no kno
   
 # BUS 201 Case Competition
 <figure style="width: 85%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/hm.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/hm.png" alt="">
 </figure> 
 ## [What](https://beedie.sfu.ca/student-life/competitions/bus-201-case-challenge):
 The BUS 201 Case Challenge is a required experiential learning component of BUS 201 and takes place every November. It is the introduction to the world of case competitions for Beedie School of Business undergraduate students. Approximately 500 students and 100 teams present their business case solutions to panels of judges consisting of academics, industry professionals, and senior students.
