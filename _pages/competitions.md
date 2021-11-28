@@ -15,7 +15,7 @@ date: November 27, 2021
 - 1st Place Storytelling
 
 <figure style="width: 30%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/certifications/badmfinal.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/badmfinal.png" alt="">
 </figure> 
 
 ## [What](https://beediehackathon.bus.sfu.ca):
@@ -28,7 +28,7 @@ This year’s BADM Hackathon case was all about digital health. A primary unders
 This was an amazing experience that I was proud to be a part of and learned how to present technical solutions with storytelling. Going into this hackathon, I was excited to combine my previous case competition presentation skills with my newfound technical skills to get the best of both worlds. My team and I worked extremely hard to combine our business domain knowledge with the technical world to get the best models possible. Furthermore, I was impressed with my ability to remain calm under pressure, while presenting in front of these established industry professionals. It was astonishing to see how supportive they were after the presentations and the feedback was extremely helpful. I would recommend this hackathon to anyone looking to deepen either their technical or storytelling skills.
 
 <figure style="width: 100%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/certifications/datajam.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.png" alt="">
 </figure> 
 
 # Vancouver Datajam Hackathon
@@ -55,7 +55,7 @@ This year’s case was about helping the Anangu Pitjantjatjara Yankunytjatjara (
 Upon release of the case, I was extremely worried because I had little to no knowledge about art, Australia, and indigenous people in Australia. It was almost as if this case was designed for me to have no domain knowledge coming into it. However, through perseverance and determination to develop an excellent understanding of all aspects in the case, my team and I became mini experts. This was my first senior experience with case competitions where I learned how to tackle an unfamiliar and challenging business case. Additionally, I really learned the power of time management and effective collaboration with teammates by setting clear deadlines and goals. 
 
 <figure style="width: 100%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/certifications/elite.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
 </figure> 
 
 # BUS 201 Case Competition
