@@ -29,6 +29,10 @@ This was an amazing experience that I was proud to be a part of and learned how 
 # Vancouver Datajam Hackathon
 - Top 5 Solution
 
+<figure style="width: 60%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.png" alt="">
+</figure> 
+
 ## [What](https://www.vancouverdatajam.ca):
 Vancouver Datajam is a virtual one-week hackathon where participants develop their coding skills under industry professionals. Additionally, a weekend of workshops is hosted by advanced analytic professionals including topics such as Git and Github control, machine learning with R, Data structures in python, python dash, and intro to notable and the python data stack. Each team is focused on a topic chosen by the lead “hacker” and must develop a small presentation show case the work at the end of the week.
 
@@ -42,6 +46,10 @@ This was my first extremely technical hackathon where most of the components wer
 </figure> 
  
 # Elite Case Competition
+
+<figure style="width: 60%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
+</figure> 
 
 ## [What](https://beedie.sfu.ca/student-life/undergraduates/competitions/beedie-competitions):
 The ELITE Case Competition is intended to be a high-level competition for students with prior case competition experience. Successful teams will have in-depth financial analysis, including modelling or projections where relevant, and are expected to conduct significant secondary research to inform decision making and support all assumptions. Students are given nine days to deliberate and produce a comprehensive presentation to showcase to industry professional judges from Telus, Deloitte, KPMG, Apply Digital and CGI.
