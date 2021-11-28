@@ -11,8 +11,8 @@ date: November 27, 2021
 ---
 
 # Business Analytics and Decision Making (BADM) Hackathon
-- 1st Place Technical
-- 1st Place Storytelling
+    - 1st Place Technical
+    - 1st Place Storytelling
 
 ## [What](https://beediehackathon.bus.sfu.ca):
 <figure style="width: 30%" class="align-right">
@@ -27,12 +27,10 @@ This year’s BADM Hackathon case was all about digital health. A primary unders
 This was an amazing experience that I was proud to be a part of and learned how to present technical solutions with storytelling. Going into this hackathon, I was excited to combine my previous case competition presentation skills with my newfound technical skills to get the best of both worlds. My team and I worked extremely hard to combine our business domain knowledge with the technical world to get the best models possible. Furthermore, I was impressed with my ability to remain calm under pressure, while presenting in front of these established industry professionals. It was astonishing to see how supportive they were after the presentations and the feedback was extremely helpful. I would recommend this hackathon to anyone looking to deepen either their technical or storytelling skills.
            
 # Vancouver Datajam Hackathon
-- Top 5 Solution
-
+     - Top 5 Solution
 <figure style="width: 60%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.png" alt="">
-</figure> 
-
+</figure>
 ## [What](https://www.vancouverdatajam.ca):
 Vancouver Datajam is a virtual one-week hackathon where participants develop their coding skills under industry professionals. Additionally, a weekend of workshops is hosted by advanced analytic professionals including topics such as Git and Github control, machine learning with R, Data structures in python, python dash, and intro to notable and the python data stack. Each team is focused on a topic chosen by the lead “hacker” and must develop a small presentation show case the work at the end of the week.
 
