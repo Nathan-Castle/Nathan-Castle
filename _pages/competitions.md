@@ -11,14 +11,13 @@ date: November 27, 2021
 ---
 
 # Business Analytics and Decision Making (BADM) Hackathon
-<figure style="width: 30%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/badmfinal.png" alt="">
-</figure> 
-
 - 1st Place Technical
 - 1st Place Storytelling
 
 ## [What](https://beediehackathon.bus.sfu.ca):
+<figure style="width: 30%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/badmfinal.png" alt="">
+</figure> 
 The BADM Hackathon is a yearly event hosted by Jason Ho and the Beedie School of Business. Students have 24 hours to analyze a real-world business case, build a predictive model from a given dataset and communicate the results/recommendations to industry professionals. These industry professionals are analytics leaders from reputable organizations such as Aritzia, Best Buy, Coast Capital Savings, Vancouver Coastal Health and many more! The bracket consists of five groups that contain five teams within each group. Each team will present three times to different industry professional judges and the winner of each group advances to the finals. The winners will split prizes of $3,000.
 
 ## Objectives:
@@ -30,8 +29,7 @@ This was an amazing experience that I was proud to be a part of and learned how 
 # Vancouver Datajam Hackathon
 - Top 5 Solution
 
-
-<figure style="width: 70%" class="align-center">
+<figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.jpg" alt="">
 </figure> 
 
@@ -47,7 +45,7 @@ This was my first extremely technical hackathon where most of the components wer
 
 # Elite Case Competition
 
-<figure style="width: 70%" class="align-center">
+<figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/elite.png" alt="">
 </figure> 
 
