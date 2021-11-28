@@ -13,6 +13,7 @@ date: November 27, 2021
 # Business Analytics and Decision Making (BADM) Hackathon
 - 1st Place Technical
 - 1st Place Storytelling
+
 ## [What](https://beediehackathon.bus.sfu.ca):
 <figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/badmfinal.png" alt="">
@@ -24,10 +25,11 @@ This year’s BADM Hackathon case was all about digital health. A primary unders
 
 ## Thoughts: 
 This was an amazing experience that I was proud to be a part of and learned how to present technical solutions with storytelling. Going into this hackathon, I was excited to combine my previous case competition presentation skills with my newfound technical skills to get the best of both worlds. My team and I worked extremely hard to combine our business domain knowledge with the technical world to get the best models possible. Furthermore, I was impressed with my ability to remain calm under pressure, while presenting in front of these established industry professionals. It was astonishing to see how supportive they were after the presentations and the feedback was extremely helpful. I would recommend this hackathon to anyone looking to deepen either their technical or storytelling skills.
-  
-  
+# 
+           
 # Vancouver Datajam Hackathon
 - Top 5 Solution
+
 ## [What](https://www.vancouverdatajam.ca):
 <figure style="width: 30%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/competitions/datajam.png" alt="">
@@ -58,7 +60,6 @@ Upon release of the case, I was extremely worried because I had little to no kno
   
   
 # BUS 201 Case Competition
-
 ## [What](https://beedie.sfu.ca/student-life/competitions/bus-201-case-challenge):
 The BUS 201 Case Challenge is a required experiential learning component of BUS 201 and takes place every November. It is the introduction to the world of case competitions for Beedie School of Business undergraduate students. Approximately 500 students and 100 teams present their business case solutions to panels of judges consisting of academics, industry professionals, and senior students.
 
